@@ -11,7 +11,7 @@ res=0
 
 ### 1/0 TEST ###
 out=$(seq 5 | ./plus)
-[ "${out}" = 15 ] || ng ${LINENO}
+[ "${out}" = 14 ] || ng ${LINENO}
 
 [ "$res" = 0 ] && echo OK
 exit $res
