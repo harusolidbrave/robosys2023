@@ -18,7 +18,7 @@ $ git clone https://github.com/harusolidbrave/robosys2023.git
 $ cd robosys2023
 ```
 
-##コマンドを実行
+## コマンドを実行
 
 #### 入力例
 
