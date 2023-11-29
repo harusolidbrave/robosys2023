@@ -11,19 +11,14 @@ plusは千葉工業大学の2023年度ロボットシステム学の授業内課
 seqコマンドを使い指定された数字の級数と階上の式と結果を表示します。
 
 ## インストール方法
-1. リポジトリをクローン
-
 ```bash
-git clone https://github.com/harusolidbrave/robosys2023.git
+$ git clone https://github.com/harusolidbrave/robosys2023.git
 ```
-
-2. ディレクトリをクローンしたリポジトリに移動
-
 ```bash
 $ cd robosys2023
 ```
 
-3. コマンドを実行
+##コマンドを実行
 
 #### 入力例
 
