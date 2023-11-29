@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # plusコマンド
 ![test](https://github.com/ryuichiueda/robosys2022/actions/workflows/test.yml/badge.svg)
 
@@ -22,3 +23,6 @@ seq 5 | ./plus
 * Ubuntu
 
 © 2022 Harutaka Sato
+=======
+# robosys2023
+>>>>>>> 9a12aa7b01427f8851e8ed6e6f9d97b7784346b1
