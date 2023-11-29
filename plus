@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 #SODX-FileCopyrrightText: 2023 harutaka sato s22c1058@s.chibakoudai.jp
-#SPDX-license-Identifier: GPL-3.0
+#SPDX-license-Identifier: BSD-3-Clause
 import sys
 
 addition = ""
