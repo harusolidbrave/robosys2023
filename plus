@@ -22,7 +22,6 @@ for line in sys.stdin:
         addition += f"{num} + "
         multiplication += f"{num} * "
 
-# Remove the trailing " + " and " * " from the expressions
 addition = addition.rstrip(" + ")
 multiplication = multiplication.rstrip(" * ")
 
