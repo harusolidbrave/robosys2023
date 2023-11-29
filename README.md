@@ -23,7 +23,7 @@ $ cd robosys2023
 #### 入力例
 
 ```bash
-seq 5 | ./plus
+$ seq 5 | ./plus
 ```
 
 #### 出力例
@@ -36,7 +36,7 @@ seq 5 | ./plus
 * テスト済み: 3.7〜3.10
 
 ## テスト環境
-* Ubuntu
+* Ubuntu 20.04.5 LTS
 
 ## LICENSE
 
