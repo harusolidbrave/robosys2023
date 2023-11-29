@@ -6,10 +6,6 @@ plusは千葉工業大学の2023年度ロボットシステム学の授業内課
 
 ![test](https://github.com/harusolidbrave/robosys2023/actions/workflows/test.yml/badge.svg)
 
-## コマンドの説明
-
-seqコマンドを使い指定された数字の級数と階上の式と結果を表示します。
-
 ## インストール方法
 ```bash
 $ git clone https://github.com/harusolidbrave/robosys2023.git
@@ -17,6 +13,10 @@ $ git clone https://github.com/harusolidbrave/robosys2023.git
 ```bash
 $ cd robosys2023
 ```
+
+## コマンドの説明
+
+seqコマンドを使い指定された数字の級数と階上の式と結果を表示します。
 
 ## コマンドを実行
 
