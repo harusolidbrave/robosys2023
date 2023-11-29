@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # plusコマンド
-![test]()
+![test](https://github.com/harusolidbrave/robosys2023/actions/workflows/test.yml/badge.svg)
 
 ### コマンドの説明
 
