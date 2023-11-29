@@ -22,7 +22,10 @@ seq 5 | ./plus
 ## テスト環境
 * Ubuntu
 
-© 2022 Harutaka Sato
-=======
-# robosys2023
->>>>>>> 9a12aa7b01427f8851e8ed6e6f9d97b7784346b1
+## LICENSE
+
+このソフトウェアパッケージは、３条項BSDライセンスの下、再配布および許可が許可されています。
+
+[LICENSE](https://github.com/harusolidbrave/robosys2023/blob/main/license)
+
+© 2023 Harutaka Sato
