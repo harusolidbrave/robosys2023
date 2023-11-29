@@ -3,11 +3,28 @@
 #SPDX-license-Identifier: GPL-3.0
 import sys
 
-ans = 0.0
+addition = ""
+multiplication = ""
+addition_result = 0.0
+multiplication_result = 1.0
+
 for line in sys.stdin:
     try:
-        ans += float(line)
+        num = float(line)
+        addition_result += num
+        multiplication_result *= num
+        addition += f"{num} + "
+        multiplication += f"{num} * "
     except:
-        ans += float(line)
+        num = float(line)
+        addition_result += num
+        multiplication_result *= num
+        addition += f"{num} + "
+        multiplication += f"{num} * "
 
-print(ans)
+# Remove the trailing " + " and " * " from the expressions
+addition = addition.rstrip(" + ")
+multiplication = multiplication.rstrip(" * ")
+
+print(f"{addition} = {addition_result}")
+print(f"{multiplication} = {multiplication_result}")
