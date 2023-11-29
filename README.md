@@ -1,4 +1,6 @@
-#robosys2023
+##robosys2023
+
+pluaは千葉工業大学の2023年度ロボットシステム学の授業内課題である。
 
 ## test結果
 
@@ -8,9 +10,26 @@
 
 seqコマンドを使い指定された数字の級数と階上の式と結果を表示します。
 
+## インストール方法
+1. リポジトリをクローン
+
+```bash
+git clone https://github.com/harusolidbrave/robosys2023.git
+```
+
+2. ディレクトリをクローンしたリポジトリに移動
+
+```bash
+$ cd robosys2023
+```
+
+3. コマンドを実行
+
 #### 入力例
 
+```bash
 seq 5 | ./plus
+```
 
 #### 出力例
 
@@ -29,5 +48,8 @@ seq 5 | ./plus
 このソフトウェアパッケージは、３条項BSDライセンスの下、再配布および許可が許可されています。
 
 [LICENSE](https://github.com/harusolidbrave/robosys2023/blob/main/license)
+
+このパッケージのコードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです．
+[ryuichiueda/my_slides/robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
 
 © 2023 Harutaka Sato
