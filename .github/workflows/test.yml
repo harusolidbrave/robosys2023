@@ -1,6 +1,6 @@
 name: test
 on: push
-jobs:
+job:
   test:
     runs-on: ubuntu-latest
     strategy:
